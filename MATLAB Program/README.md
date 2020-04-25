@@ -1,9 +1,9 @@
-    -----------------------------------------------------------------------
-    MATLAB program for image copy-move and copy-flip-move forgery detection 
-    -----------------------------------------------------------------------
-                                  April 2020
+        -----------------------------------------------------------------------
+        MATLAB program for image copy-move and copy-flip-move forgery detection 
+        -----------------------------------------------------------------------
+                                      April 2020
 
-This set of MATLAB programs provide 1 state-of-the-art solution for copy-move forgery detection [1], and 3 modified solutions to additionally deal with copy-flip-move forgery detection.  
+This set of MATLAB programs provide one state-of-the-art solution for copy-move (CM) forgery detection [1], and three modified versions to additionally deal with copy-flip-move (CFM) forgery detection. Methods 2–4 could simultaneously deal with CM and CFM forgeries while Methods 3 and 4 could further distinguish between the two types of attacks. Methods achieves the lowest computational complexity.
 
 [1] Y. Li and J. Zhou, “Fast and effective image copy-move forgery detection via hierarchical feature point matching,” IEEE Transactions on Information Forensics and Security, vol. 14, no. 5, pp. 1307–1322, May 2019.
 
