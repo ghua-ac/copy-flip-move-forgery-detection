@@ -1,11 +1,9 @@
-# copy-flip-move 
-Copy-Flip-Move Dataset (CFMD) by S. Wang, G. Hua, and D. Ye, Wuhan University
+# CM+CFM Dataset and Forgery Detection MATLAB Program
 
 Dataset created based on the copy-move forgery dataset by CVIP group from University of Palermo.
 Original dataset link: http://www.diid.unipa.it/cvip/
 
-
-In the CFMD:
+In the CM+CFM Dataset:
 1. The folder "Original" contains selected image samples from the CVIP dataset.
 2. The folder "CM Only" contains images undergone CM forgery only.
 3. The folder "CFM Only" contains images undergone CFM forgery (aka flip, reflection, or mirroring).
